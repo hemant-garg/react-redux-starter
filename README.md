@@ -19,8 +19,7 @@ npm install
 npm run start
 ```
 
-
-..
+**Note: This repo is made on top of create-react-app**
 
 Thanks and If you have any suggestions for me or just want to contact me for any reason. Ping me anytime
 
