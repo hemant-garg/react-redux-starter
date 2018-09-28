@@ -18,3 +18,12 @@ npm install
 
 npm run start
 ```
+
+
+..
+
+Thanks and If you have any suggestions for me or just want to contact me for any reason. Ping me anytime
+
+[Linkedin](https://www.linkedin.com/in/hemantgarg6/)
+
+[Facebook](https://www.facebook.com/hemantgarg6)
